@@ -161,6 +161,8 @@ p {
 
 .social-icon {
     margin: 20px 10px;
+    font-size: 26.5px;
+    cursor: pointer;
 }
 
 @media (max-width: 1028px) {

@@ -1,4 +1,4 @@
-# Web Development Project
+# TingDog - Tinder for Dogs
  
  - This repository contains the webdev projects which I learned from udemy.
  - tools/technologies : HTML5, CSS3, Bootstrap5.
